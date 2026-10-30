@@ -4,7 +4,7 @@
 
 <sub>INDEPENDENT MLOPS CONSULTANT&nbsp;&nbsp;·&nbsp;&nbsp;ALDRIDGE SYSTEMS</sub>
 
-I make ML/LLM systems hold up in production — reliable, observable, cost-controlled — then hand over the keys. 6+ systems shipped, from decisioning APIs and forecasting pipelines to governed LLM gateways.
+6+ production systems shipped, from decisioning APIs and forecasting pipelines to governed LLM gateways. I leave behind evals, runbooks, and observability — so your team can run it without me.
 
 **Stack:** Python · Kubernetes · Terraform · Dagster · vLLM · OPA · OpenTelemetry · Postgres · ClickHouse
 
