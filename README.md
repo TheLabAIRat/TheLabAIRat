@@ -8,4 +8,4 @@
 
 **Stack:** Python · Kubernetes · Terraform · Dagster · vLLM · OPA · OpenTelemetry · Postgres · ClickHouse
 
-**Links:** [Email](mailto:test.academy24@gmail.com) · [X](https://x.com/TheLabAIRat)
+**Links:** [Selected work](https://github.com/TheLabAIRat/selected-work) · [Email](mailto:test.academy24@gmail.com) · [X](https://x.com/TheLabAIRat)
